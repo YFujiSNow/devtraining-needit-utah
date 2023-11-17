@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Parameterized test to verify users with different NeedIt roles can access the module and form to create a NeedIt record.</description>
+        <enable_parameterized_testing>true</enable_parameterized_testing>
+        <fail_on_server_error>true</fail_on_server_error>
+        <name>Create NeedIt Module</name>
+        <parameters/>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 08:25:45</sys_created_on>
+        <sys_id>46a021fd97ee35103a90b5a6f053af8c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create NeedIt Module</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_test_46a021fd97ee35103a90b5a6f053af8c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 08:25:45</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="DELETE" query="document_key=46a021fd97ee35103a90b5a6f053af8c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>54ee0f98db47b38452dd2f17d4961915</instance_id>
+        <instance_name>dev89920</instance_name>
+        <name>sys_atf_test_46a021fd97ee35103a90b5a6f053af8c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test"><sys_atf_test action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Parameterized test to verify users with different NeedIt roles can access the module and form to create a NeedIt record.</description><enable_parameterized_testing>true</enable_parameterized_testing><fail_on_server_error>true</fail_on_server_error><name>Create NeedIt Module</name><parameters/><remember/><sys_class_name>sys_atf_test</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-17 08:25:45</sys_created_on><sys_id>46a021fd97ee35103a90b5a6f053af8c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create NeedIt Module</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_test_46a021fd97ee35103a90b5a6f053af8c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-17 08:25:45</sys_updated_on></sys_atf_test><sys_variable_value action="delete_multiple" query="document_key=46a021fd97ee35103a90b5a6f053af8c"/></record_update>]]></payload>
+        <payload_hash>-672266071</payload_hash>
+        <record_name>Create NeedIt Module</record_name>
+        <reverted_from/>
+        <source>f953a4f997c631103a90b5a6f053afeb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 08:25:45</sys_created_on>
+        <sys_id>2ec061fd97ee35103a90b5a6f053afa1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bdc62d0e20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 08:25:45</sys_updated_on>
+        <type>Test</type>
+        <update_guid>22c061fd9eee3510fc5c22e28c6719a1</update_guid>
+        <update_guid_history>22c061fd9eee3510fc5c22e28c6719a1:-672266071</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 08:35:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_test">sys_atf_test</sys_db_object>
+        <sys_id>230108a0562249d0a8dc26b8fe13fa40</sys_id>
+        <sys_metadata>46a021fd97ee35103a90b5a6f053af8c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create NeedIt Module</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_test_46a021fd97ee35103a90b5a6f053af8c</sys_update_name>
+        <sys_update_version display_value="sys_atf_test_46a021fd97ee35103a90b5a6f053af8c">2ec061fd97ee35103a90b5a6f053afa1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 08:35:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
